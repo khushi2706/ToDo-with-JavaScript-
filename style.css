@@ -1,0 +1,27 @@
+body {
+	font-size: 1.3rem;
+}
+
+
+.todo{
+    display: inline-block;
+    padding: 0.35em 0.65em;
+    font-size: .75em;
+    font-weight: 700;
+    line-height: 1;
+    color: rgb(15, 7, 7);
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+}
+
+.btn{
+    background-color: darkcyan;
+    border: none;
+}
+
+.btn:hover{
+    background-color: rgb(8, 53, 53);
+}
